@@ -1,0 +1,11 @@
+#gif-cont {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-row-gap: 85px;
+  justify-content: space-evenly;
+  align-content: space-between;
+}
+
+form {
+  display: inline;
+}
