@@ -1,3 +1,8 @@
+* {
+  font-family: 'Roboto',
+    sans-serif;
+}
+
 #gif-cont {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -8,4 +13,19 @@
 
 form {
   display: inline;
+}
+
+h1 {
+  text-align: center;
+  margin: 35px 0px 20px 0px;
+}
+
+#form-cont {
+  display: block;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+#query {
+  line-height: 1.5em;
 }
